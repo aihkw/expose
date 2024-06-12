@@ -17,3 +17,6 @@ A: Please join the [Discord](https://discord.gg/VErveCCJ67) server and contact t
 Q: How do I suggest more features?  
 A: You can join the [Discord](https://discord.gg/VErveCCJ67) and head over to the Suggestions forums channel.  
   
+## Appreciation
+Special thanks to @Lazatyum for updating, and everyone that provides the evidence to stop illegal act.  
+We thank you all for the support.
