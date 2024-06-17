@@ -8,7 +8,7 @@
 4. **Intellectual Property**
  - Respect the intellectual property rights of others. No unauthorized sharing of copyrighted materials.
 
-**Conduct:** We may blacklist accounts that violate these terms or our community guidelines.
+**Conduct:** We may blacklist accounts that violate these terms or our community guidelines.  
 **Modifications:** We can modify these terms at any time without notice.
 
 **Important: The `/expose` command is for exposing the guilty's behavior INCLUDING materials that are NSFW and explicit. Please use discretion and follow the command's intended use.**
