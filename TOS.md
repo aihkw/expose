@@ -9,9 +9,9 @@
  - Respect the intellectual property rights of others. No unauthorized sharing of copyrighted materials.
 
 **Conduct:** We may blacklist accounts that violate these terms or our community guidelines.  
-**Modifications:** We can modify these terms at any time without notice.
-
+**Modifications:** We can modify these terms at any time without notice.  
+  
 **Important: The `/expose` command is for exposing the guilty's behavior INCLUDING materials that are NSFW and explicit. Please use discretion and follow the command's intended use.**
-
-By using our bot, you acknowledge that you have read and agreed to these Terms of Service.
+  
+By using our bot, you acknowledge that you have read and agreed to these Terms of Service.  
 *This is one-time process only.*
