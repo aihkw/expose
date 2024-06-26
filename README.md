@@ -9,7 +9,7 @@ Help us stop these criminals before they do even more of their act!
 
 ## FAQ
 Q: Does this bot requires any dangerous permission such as `Kick`, `Ban`, `Timeout` or `Administrator`?  
-A: Certainly not. The bot only requires `send_message` permission to respond to its users.  
+A: Certainly not. The bot only requires `send_message` permission to respond to its users AND `Use External Emojis` for styling.  
   
 Q: I found someone that behaves awfully to my friends/environment. How do I opt them here?  
 A: Please join the [Discord](https://discord.gg/VErveCCJ67) server and contact the Owner/Administrator.  
